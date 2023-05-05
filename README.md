@@ -6,13 +6,13 @@ Download expo go app on your mobile, and go to this link [jobbify](https://expo.
 
 ## Home
 
-<img src="./assets/app/image_1.jpg" />
+<img style="width:300px; height:300px; border:2px solid black;" src="./assets/app/image_1.jpg" />
 
 ## JOB DETAILS PAGE
 
-<img src="./assets/app/image_2.jpg" />
-<img src="./assets/app/image_3.jpg" />
+<img style="width:300px; height:300px; border:2px solid black;" src="./assets/app/image_2.jpg" />
+<img style="width:300px; height:300px; border:2px solid black;" src="./assets/app/image_3.jpg" />
 
 ## Home > Job Listing Section
 
-<img src="./assets/app/image_4.jpg" />
+<img style="width:300px; height:300px; border:2px solid black;" src="./assets/app/image_4.jpg" />
