@@ -6,10 +6,10 @@ const useFetch = (endpoint, query) => {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(false);
   const randomAPIKey = [
-    "cc12130b11mshce226768cb27c01p182cf1jsna3b27b757fdd",
-    "c5f3d3fb38msh059149ed94e03a0p1d88f0jsn2922f1148a79",
-    "818cc9083bmshf62caea85e4569fp1043ffjsn2e9b3a96c50e",
-    "60e0434596mshf341497e195838ep190f73jsn70179698a6b5",
+    process.env.RAPID_API_KEY_1,
+    process.env.RAPID_API_KEY_2,
+    process.env.RAPID_API_KEY_3,
+    process.env.RAPID_API_KEY_4,
   ];
 
   const current_key = Math.floor(Math.random() * 4);
